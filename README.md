@@ -1,2 +1,3 @@
 # webscrapper-servidores-assembleia-alagoas
-# Huge_CSV_to_SQlite
+
+Captura a folha de pagamento de pessoal da Assembléia Legislativa de Alagoas
